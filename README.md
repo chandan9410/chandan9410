@@ -1,6 +1,8 @@
 <h1 align="center">Hey there, I'm Chandan Koranga 👋</h1>
 ---
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=F7931E&center=true&vCenter=true&width=450&lines=Web+Developer+%7C+Open+Source+Contributor;Competitive+Programmer+%7C+Tech+Explorer;ML+and+AI+Enthusiast+%7C " alt="Typing SVG" />
+</p>
 ### 👨‍🎓 About Me
 
 - 🎓 B.Tech @ **NIT Durgapur** (2022-2026)
